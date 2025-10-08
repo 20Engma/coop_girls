@@ -29,6 +29,12 @@ docker run hello-world
 
 app simple code
 
+start with vim editor 
+
+vim <your app> 
+
+out >> esc > :wq
+
 
 const http = require('http');
 

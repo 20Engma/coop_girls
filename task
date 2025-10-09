@@ -1,0 +1,34 @@
+TO DAY Task:
+
+- run nginxnginx:mainline-alpine3.22-perl Official Image from docker hub 
+- open browser and tack screenshot 
+
+
+what is nginx ?
+how and way need open port and how can two server connect ??
+
+**Hints** 
+your server port should be open 8080 
+what is nginx server port ?
+
+**ops** you have a deployment today !!!!
+
+The penetration testing team contacted us to report that the current server running Nginx contains vulnerabilities !!!
+
+what is Vulnerabilities level have in our image ?? 
+ 
+**Hints** 
+
+check in image tags 
+
+
+we need now deployed the letest image 
+
+**Hints** 
+
+what is command used in docker to change tag ??
+pull latest image for nginx >> best of luck majd :)
+
+
+
+
